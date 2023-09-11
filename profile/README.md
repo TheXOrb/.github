@@ -1,4 +1,6 @@
-## The X Orb - Vision 🌈
+# The X Orb  
+
+## Vision 🌈
 Our vision is to create innovative digital products that deliver value from the outset, not only simplifying people's lives but also making their usage enjoyable and satisfying. By adapting existing solutions, we aim to offer tools and services that enhance users' daily routines and entice them to return with delight.
 
 <!--
