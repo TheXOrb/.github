@@ -3,6 +3,9 @@
 ## Vision 🌈
 Our vision is to create innovative digital products that deliver value from the outset, not only simplifying people's lives but also making their usage enjoyable and satisfying. By adapting existing solutions, we aim to offer tools and services that enhance users' daily routines and entice them to return with delight.
 
+## Mission 🧙
+At The X ORB, our mission is to catalyze innovation and growth within our portfolio of companies. We provide unwavering support, resources, and strategic guidance to nurture each subsidiary's potential. Our commitment is to empower these companies to develop and offer digital products that not only simplify lives but also spark joy and satisfaction for users. Through our expertise and dedication, we create a solid foundation for each subsidiary to flourish and, when the time is right, facilitate opportunities for external partnerships and acquisitions. Together, we are shaping a future where innovation and value creation are at the heart of everything we do.
+
 <!--
 
 **Here are some ideas to get you started:**
