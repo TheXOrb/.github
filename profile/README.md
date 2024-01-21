@@ -6,6 +6,10 @@ Our vision is to leverage innovative blockchain technologies and cybersecurity p
 ## Mission 🧙
 At The X ORB, our mission is to catalyze innovation and growth within our portfolio of companies, all built on the foundation of blockchain technology. We provide unwavering support, resources, and strategic guidance to nurture each subsidiary's potential. Our commitment is to empower these companies to develop and offer secure digital products that not only simplify lives but also spark joy and satisfaction for users. Through our expertise and dedication, we create a solid foundation for each subsidiary to flourish and, when the time is right, facilitate opportunities for external partnerships and acquisitions. Together, we are shaping a future where innovation, value creation, and blockchain technology are at the heart of everything we do.
 
+## Reposotories
+The repos are growing and the starting point is in the repo called "Infrastructure". Here is documented how and which repo should be used to get a working system.
+It´s a step-by-step guide so you can get www.brfx.se working - this is not complete but what i want to achieve (2024-01-21) 
+
 <!--
 
 **Here are some ideas to get you started:**
