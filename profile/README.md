@@ -8,7 +8,7 @@ At The X ORB, our mission is to catalyze innovation and growth within our portfo
 
 ## Reposotories
 The repos are growing and the starting point is in the repo called "Infrastructure". Here is documented how and which repo should be used to get a working system.
-It´s a step-by-step guide so you can get www.brfx.se working - this is not complete but what i want to achieve (2024-01-21) 
+It´s a step-by-step guide so you can get www.brfx.se working. Follow this link and you will get it going https://github.com/TheXOrb/Infrastructure/blob/main/startup-www.brfx.se.md
 
 <!--
 
