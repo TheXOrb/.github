@@ -16,8 +16,10 @@ Here you will also find our Architecture Decision Record template [https://githu
 In each and every repository there should be an ADR
 
 ## Repositories
-The repos are growing and the starting point is in the repo called "Infrastructure". Here is documented how and which repo should be used to get a working system.
-It´s a step-by-step guide so you can get www.brfx.se working. Follow this link and you will get it going https://github.com/TheXOrb/Infrastructure/blob/main/startup-www.brfx.se.md
+The repos are growing and the starting point is in the repo called "Infrastructure".  
+Here is documented how and which repo should be used to get a working system.  
+It´s a step-by-step guide so you can get www.brfx.se working.   
+Follow this link and you will get it going https://github.com/TheXOrb/Infrastructure/blob/main/startup-www.brfx.se.md
 
 <!--
 
