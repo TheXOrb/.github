@@ -12,7 +12,8 @@ For the first period of time building the foundation of a login-component that c
 ## Architectural and requirements 👩‍💻
 To get an overview of what the basic foundation of the solutions this is documented in "common".   
 Follow this link and you will get there going https://github.com/TheXOrb/common/  
-Here you will also find our Architecture Decision Record https://github.com/TheXOrb/common/adr/adr.md  
+Here you will also find our Architecture Decision Record template [https://github.com/TheXOrb/common/adr/adr.md](https://github.com/TheXOrb/common/blob/main/adr/adr.md)  
+In each and every repository there should be an ADR
 
 ## Repositories
 The repos are growing and the starting point is in the repo called "Infrastructure". Here is documented how and which repo should be used to get a working system.
