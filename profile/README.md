@@ -9,6 +9,10 @@ At The X ORB, our mission is to catalyze innovation and growth within our portfo
 ## Goal 🏁
 For the first period of time building the foundation of a login-component that can interact with a Hyperledger Fabric blockchain that will be where things are stored.
 
+## Strategy 
+
+## Actions
+
 ## Architectural and requirements 👩‍💻
 To get an overview of what the basic foundation of the solutions this is documented in "common".   
 Follow this link and you will get there going https://github.com/TheXOrb/common/  
